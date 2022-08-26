@@ -1,0 +1,11 @@
+name: ${project.artifactId}
+version: ${project.version}
+main: ${project.groupId}.${project.artifactId}
+author: LoreSchaeffer
+description: Do you need an Help Book?
+api-version: 1.13
+website: https://github.com/LoreSchaeffer/HelpBookPlus
+
+commands:
+  helpbook:
+    aliases: [hb]
